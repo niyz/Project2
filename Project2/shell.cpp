@@ -36,7 +36,7 @@ int main(void)
 
 	do {
 		
-		//Whaddupdasd
+		//Lägger till en kommentar
 		std::cout << user << ":";
 		printDirectory(fs, cwd);
 		std::cout << "$ ";
