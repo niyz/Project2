@@ -35,7 +35,7 @@ int main(void)
 	bool bRun = true;
 
 	do {
-		 //lägger till en till kommentar sasds
+		 //lägger till en till kommentar sasds försöker igen
 		//Lägger till en kommentar
 		std::cout << user << ":";
 		printDirectory(fs, cwd);
